@@ -3,6 +3,8 @@
 The following video shows the robot in action!
 https://www.youtube.com/watch?v=Eo-U3c4iMMw
 
+[<img src="https://img.youtube.com/vi/Eo-U3c4iMMw/maxresdefault.jpg" width="50%">](https://youtu.be/Eo-U3c4iMMw)
+
 Six stepper motors are held in an acrylic frame and connected to a Rubik’s cube using 3D-printed adaptors. They’re controlled by an Arduino Mega using A4988 stepper motor drivers and powered by a 35V DC power supply. Four webcams are mounted around the frame so each face of the cube is visible.
 
 The Kociemba algorithm is used to solve the cube, implemented by the
